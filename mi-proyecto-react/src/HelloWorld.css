@@ -1,0 +1,16 @@
+/* src/HelloWorld.css */
+.hello-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.hello-title {
+  color: #333;
+  font-size: 2.5rem;
+}
+
+.hello-subtitle {
+  color: #666;
+  font-size: 1rem;
+}
